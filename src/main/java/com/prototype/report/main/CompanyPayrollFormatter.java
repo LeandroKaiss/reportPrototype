@@ -41,7 +41,7 @@ public class CompanyPayrollFormatter{
                                 .getDepartment()
                                 .getDepartment_name()) : i == list.size()-1){
                     stringBuilder.append(CompanyPayrollFormat.TOTAL)
-                            .append(CompanyPayrollFormat.PIPE)
+                            .append(" ")
                             .append(list.get(i).getDepartment().getDepartment_name())
                             .append(CompanyPayrollFormat.PIPE)
                             .append(numberFormat(totalSalary))

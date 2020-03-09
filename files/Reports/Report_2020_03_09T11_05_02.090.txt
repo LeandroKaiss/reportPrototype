@@ -1,0 +1,20 @@
+NAME|SALARY|DEPARTMENT
+Eric Doris|4450,00|IT
+Orwell Watson|6500,00|IT
+Jose Ramantes|7000,00|IT
+Gregorio Silva|7520,00|IT
+Reyansh Bhattacharya|8500,00|IT
+TOTAL IT|33970,00
+
+NAME|SALARY|DEPARTMENT
+Hanz Schmidt|3300,00|Marketing
+Takashi Yamashita|3520,00|Marketing
+Mark Sotig|4000,00|Marketing
+TOTAL Marketing|10820,00
+
+NAME|SALARY|DEPARTMENT
+Alissa Cors|2970,00|HR
+Alberto Camargo|3120,00|HR
+TOTAL HR|6090,00
+
+TOTAL|50880,00
