@@ -1,0 +1,5 @@
+SELECT e.employee_name, e.salary, d.department_name, e.employee_id, d.department_id,
+(select count(e2.department_id) from employees e2 where e2.department_id = d.department_id) as cnt
+FROM employees e 
+INNER JOIN department d ON d.department_id=e.department_id 
+group by e.employee_id ORDER BY cnt DESC, e.salary;

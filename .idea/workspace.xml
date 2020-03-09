@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caa7c3be-9d4a-41eb-b4f3-eaeba01b373d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yi9Xw9FbesMUbMjcxDfXIaeddf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.CompanyPayrollGen">
+    <configuration name="CompanyPayrollDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prototype.report.main.CompanyPayrollDAO" />
+      <module name="ReportPrototype" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prototype.report.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyPayrollFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prototype.report.main.CompanyPayrollFormat" />
+      <module name="ReportPrototype" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prototype.report.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyPayrollFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prototype.report.main.CompanyPayrollFormatter" />
+      <module name="ReportPrototype" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prototype.report.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyPayrollGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prototype.report.main.CompanyPayrollGen" />
+      <module name="ReportPrototype" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prototype.report.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CompanyPayrollGen" />
+        <item itemvalue="Application.CompanyPayrollDAO" />
+        <item itemvalue="Application.CompanyPayrollFormatter" />
+        <item itemvalue="Application.CompanyPayrollFormat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caa7c3be-9d4a-41eb-b4f3-eaeba01b373d" name="Default Changelist" comment="" />
+      <created>1583414590123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583414590123</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1918" y="181" key="#Project_Structure" timestamp="1583419037399">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="181" key="#Project_Structure/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583419037399" />
+    <state x="2131" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1583497356997">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2131" y="213" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583497356997" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583761327599">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583761327599" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583761327598">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583761327598" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583761327598">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583761327598" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583761327599">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583761327599" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1583519437593">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583519437593" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1583519437593">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583519437593" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1583519437593">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583519437593" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1583519437593">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583519437593" />
+    <state x="1856" y="178" key="Maven.ArtifactSearchDialog" timestamp="1583513656285">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1856" y="178" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583513656285" />
+    <state x="2034" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1583754950080">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2034" y="347" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583754950080" />
+    <state x="1981" y="138" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583419367638">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1981" y="138" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583419367638" />
+    <state x="1989" y="225" key="search.everywhere.popup" timestamp="1583419348692">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1989" y="225" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1583419348692" />
+  </component>
+</project>
